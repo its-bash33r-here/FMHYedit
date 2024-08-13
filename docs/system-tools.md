@@ -516,7 +516,7 @@
 * [Lively](https://www.rocksdanister.com/lively/) - Live Wallpaper Manager
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) or [WallpaperFusion](https://www.wallpaperfusion.com/) - Dual Monitor Wallpapers
 * [ScreenPlay](https://screen-play.app/) - Wallpaper Manager
-* [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
+* [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager (Paid, not free)
 * [Awesome Wallpaper](https://awesome-wallpaper.com/) - Wallpaper Manager
 * [SuperPaper](https://github.com/hhannine/superpaper) - Wallpaper Manager
 * [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/) - Multi-Host Wallpaper Switcher
